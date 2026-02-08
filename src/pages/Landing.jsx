@@ -16,8 +16,8 @@ import {
 // Menu items with colors for folder tabs - based on E-Portfolio Checklist
 const menuItems = [
   { path: '/intro', label: 'Introduction', icon: User, description: 'About me & my GL project', delay: 0.1, color: '#C6796F' },
-  { path: '/culture', label: 'Content/Culture', icon: Globe2, description: 'Progress, deliverables & resources', delay: 0.15, color: '#83B764' },
-  { path: '/contract', label: 'My Learning Contract', icon: ClipboardList, description: 'Proposal & contract', delay: 0.2, color: '#CD9D6A' },
+  { path: '/contract', label: 'My Learning Contract', icon: ClipboardList, description: 'Proposal & contract', delay: 0.15, color: '#CD9D6A' },
+  { path: '/culture', label: 'Content/Culture', icon: Globe2, description: 'Progress, deliverables & resources', delay: 0.2, color: '#83B764' },
   { path: '/reflection', label: 'Reflection', icon: MessageSquare, description: 'Learning logs & reflections', delay: 0.25, color: '#77C099' },
 ];
 

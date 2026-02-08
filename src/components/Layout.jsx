@@ -20,8 +20,8 @@ import { cn } from '../lib/utils';
 // Navigation items with icons and colors - based on E-Portfolio Checklist
 const navItems = [
   { path: '/intro', label: 'Introduction', icon: User, color: '#C6796F' },
-  { path: '/culture', label: 'Content/Culture', icon: Globe2, color: '#83B764' },
   { path: '/contract', label: 'My Learning Contract', icon: ClipboardList, color: '#CD9D6A' },
+  { path: '/culture', label: 'Content/Culture', icon: Globe2, color: '#83B764' },
   { path: '/reflection', label: 'Reflection', icon: MessageSquare, color: '#77C099' },
 ];
 
