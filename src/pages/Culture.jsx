@@ -81,7 +81,7 @@ I typically dedicated longer study sessions on weekends to work through Minna no
     description: 'Listening & pronunciation', 
     icon: '🎧',
     hasModal: true,
-    modalImages: ['/images/hiragana-prac.jpeg', '/images/hiragana-prac-2.jpeg', '/images/katakana-prac.jpeg'],
+    modalImages: ['/images/japanesepod101.jpeg', '/images/hiragana-prac.jpeg', '/images/hiragana-prac-2.jpeg', '/images/katakana-prac.jpeg'],
     modalContent: `JapanesePod101 is one of the most popular Japanese learning podcasts among English speakers, and I discovered it through recommendations on Reddit's r/LearnJapanese community. The podcast offers lessons at various levels from Absolute Beginner to Advanced, and I primarily worked through their Beginner and Lower Intermediate content.
 
 What makes JapanesePod101 stand out is the quality of their audio content. Each episode features native Japanese speakers having natural conversations, followed by detailed explanations in English. The hosts, Peter and his co-hosts, break down grammar points, vocabulary, and cultural context in an engaging and easy-to-understand way. I especially appreciated their "Culture Class" episodes which explored topics like Japanese drinking etiquette and izakaya customs — directly relevant to my nightlife culture research!
