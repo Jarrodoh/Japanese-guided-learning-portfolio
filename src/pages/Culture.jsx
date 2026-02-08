@@ -65,7 +65,15 @@ However, I also learned the limitations of app-based learning. While Duolingo is
     type: 'Textbook', 
     description: 'Structured grammar learning', 
     icon: '📚',
-    hasModal: false 
+    hasModal: true,
+    modalImages: ['/images/mina-nihongo%20%282%29.jpeg', '/images/mina-nihongo%20%283%29.jpeg', '/images/mina-nihongo%20%284%29.jpeg', '/images/mina-nihongo%20%285%29.jpeg'],
+    modalContent: `Minna no Nihongo is widely regarded as one of the most comprehensive Japanese textbooks for beginners, and it became my primary resource for structured grammar learning. Unlike apps that introduce concepts in bite-sized pieces, Minna no Nihongo provides a systematic, chapter-by-chapter progression through essential grammar patterns, vocabulary, and sentence structures.
+
+The textbook is written entirely in Japanese (with a separate translation and grammar notes book available), which initially felt intimidating but turned out to be incredibly effective. Being immersed in Japanese text from the start forced me to engage with the language directly rather than relying on English translations. Each chapter introduces new grammar points with clear examples, followed by practice exercises, conversation drills, and reading comprehension passages.
+
+What I found most valuable about Minna no Nihongo was how it taught grammar in context. Rather than just memorizing rules, I learned how particles like は, が, を, に, and で function in actual sentences. The textbook's progression is logical and builds upon previous lessons, which gave me a strong foundation in Japanese sentence structure. The exercises included writing practice, fill-in-the-blanks, and translation practice that reinforced what I learned.
+
+I typically dedicated longer study sessions on weekends to work through Minna no Nihongo chapters, taking detailed notes and completing all the exercises. The images you see here are from my actual study sessions — my notes, textbook pages, and practice exercises. While it requires more time and focus compared to apps, the depth of understanding I gained from this textbook was invaluable. For anyone serious about learning Japanese properly, Minna no Nihongo is an essential resource that provides the grammatical foundation needed for true fluency.`
   },
   { 
     name: 'JapanesePod101', 
