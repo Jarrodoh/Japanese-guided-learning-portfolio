@@ -225,6 +225,11 @@ export default function Culture() {
                         src={selectedResource.modalImages[currentImageIndex]}
                         alt={`${selectedResource.name} evidence ${currentImageIndex + 1}`}
                         className="w-full h-full object-contain"
+                        style={{
+                          transform: selectedResource.name === 'Minna no Nihongo' && (currentImageIndex === 1 || currentImageIndex === 3) 
+                            ? 'rotate(90deg)' 
+                            : 'none'
+                        }}
                         initial={{ opacity: 0, x: 50 }}
                         animate={{ opacity: 1, x: 0 }}
                         exit={{ opacity: 0, x: -50 }}
